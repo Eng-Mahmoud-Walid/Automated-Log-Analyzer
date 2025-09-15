@@ -11,7 +11,7 @@ A hands-on Bash project to monitor system logs and track errors.
 
 ## How to Run
 1. Clone the repo:
-   git clone https://github.com/username/automated-log-analyzer.git
+   git clone git clone https://github.com/Eng-Mahmoud-Walid/Automated-Log-Analyzer.git
 2. Go to the project folder:
    cd automated-log-analyzer
 3. Make the script executable:
