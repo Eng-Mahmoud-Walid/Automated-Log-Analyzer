@@ -2,6 +2,9 @@
 
 A hands-on Bash project to monitor system logs and track errors.
 
+![Sample Output](output.png)
+
+
 ## Features
 1. CPU & RAM Alerts ⚡
 2. Failed Login Tracking 🔒
